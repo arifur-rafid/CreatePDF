@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My PDF Application</string>
+    <string name="bkash">Bkash</string>
+    <string name="nagad">Nagad</string>
+    <string name="bkash_number">Bkash Number</string>
+    <string name="bkash_name">Bkash Name</string>
+    <string name="submit">Submit</string>
+    <string name="nagad_number">Nagad Number</string>
+    <string name="nagad_name">Nagad Name</string>
+    <string name="receipt">Receipt</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="transaction_date_time">Transaction Date Time</string>
+    <string name="narration">Narration</string>
+    <string name="location">Location</string>
+    <string name="transaction_info">Transaction Info</string>
+    <string name="number">Number</string>
+    <string name="total">Total</string>
+    <string name="source_account_card">Source Account/Card</string>
+</resources>
